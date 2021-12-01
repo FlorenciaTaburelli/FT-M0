@@ -4,6 +4,8 @@ h1{
 
 img {
     width: 400px;
+    display: block;
+    padding: 5px;
     
 }
 
