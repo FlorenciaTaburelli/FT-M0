@@ -1,0 +1,19 @@
+    * Variables
+    Sirven para darle nombre a distintos tipos de datos, pueden ser palabras, numeros, etc
+
+	* Strings
+    es un tipo de dato de texto, se pone entre "" . Pueden ser palabras, numeros. Ej 'perro', '345' 
+
+	* Funciones (argumentos, `return`)
+    Una funcion es una tarea, a la que le damos un nombre, instrucciones de lo que debe realizar, y la respuesta que queremos que nos de. Esta respuesta la nombramos como 'return'
+
+	* Declaraciones `if`
+    Un 'if' se usa para darle una condicion a la funcion, y dependiendo de si esta se cumple o no variará el resultado de la función. 
+    Ej, if (numero < 7){
+        return 'este numero es menor que siete'
+    }
+    Lo que indica ese 'if' es que si el 'numero' que asignamos es menor que siete, entonces devuelva (return) la respuesta 'este numero es menor que siete'
+
+	* Valores booleanos (`true`, `false`)
+    Los tipos de datos booleanos solo pueden ser true (verdadero) o false (falso). Siemrpe va a darse uno de los dos (o niguno), pero nunca los dos a la vez.
+    Sirve para indicar que si algo se cumple (true), se realice x tarea , o si NO se cumple (false) indique otra respuesta.
